@@ -1,7 +1,9 @@
-streamlit==1.24.0
-pandas==2.0.3
-plotly==5.15.0
-fredapi==0.5.1
-pillow==9.5.0
+streamlit==1.49.1
+pandas==2.3.2
+plotly==6.3.0
+fredapi==0.5.2
+pillow==11.3.0
 numpy==1.26.4
 rich==14.1.0
+
+
